@@ -74,7 +74,7 @@ Ejemplo: En **Villa El Salvador (2020)**, un accidente por fuga de gas dejó dec
 
 ## Propuesta de solución
 
-##SISTEMA INTEGRADO DE DETECCIÓN DE GASES EN HOGARES
+## SISTEMA INTEGRADO DE DETECCIÓN DE GASES EN HOGARES
 
 Proponemos el desarrollo de un **sensor inteligente de fugas de gas**.  
 Este dispositivo funcionará detectando concentraciones peligrosas de **GLP o metano** mediante un **sensor MQ-2 o MQ-5**.  
