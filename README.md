@@ -39,7 +39,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 ## 📌 Resumen Final  
 # 🌍 ODS 14: VIDA SUBMARINA
 
-}<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/28466360-5a7d-4f01-b7cc-46a5fff47273" />
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/28466360-5a7d-4f01-b7cc-46a5fff47273" />
 
 
 ---
@@ -58,7 +58,8 @@ Sin embargo, las **playas de Lima** enfrentan un grave problema de contaminació
 Esto representa un riesgo sanitario directo: ¡Miles de bañistas ingresan al mar sin conocer el estado real del agua!  
 Actualmente, la **DIGESA** realiza monitoreos, pero no existen **sensores en tiempo real** que alerten a las personas (Ministerio del Ambiente, 2021).  
 
-<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/a73bf62b-7037-4e16-8c3a-852a1570147a" />
+
+
 
 ---
 
