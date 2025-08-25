@@ -13,7 +13,7 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
 - ODS 3: Salud y Bienestar  
-- ODS 13: Acción por el Clima  
+- ODS 14: "Vida submarina"
 
 ---
 
@@ -37,9 +37,10 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 ---
 
 ## 📌 Resumen Final  
-# 🌍 ODS 13: ACCIÓN POR EL CLIMA
+# 🌍 ODS 14: VIDA SUBMARINA
 
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/bc4f4114-c02e-4147-88de-5ce52abdca13" />
+}<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/28466360-5a7d-4f01-b7cc-46a5fff47273" />
+
 
 ---
 
