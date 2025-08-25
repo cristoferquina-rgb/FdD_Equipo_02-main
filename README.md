@@ -77,7 +77,7 @@ Ejemplo: En **Villa El Salvador (2020)**, un accidente por fuga de gas dejó dec
 Proponemos el desarrollo de un **sensor inteligente de fugas de gas**.  
 Este dispositivo funcionará detectando concentraciones peligrosas de **GLP o metano** mediante un **sensor MQ-2 o MQ-5**.  
 
-🔧 Para hacerlo más útil y actual:
+Para hacerlo más útil y actual:
 - Se incorporará un **módulo WiFi (ESP8266 o ESP32)**  
 - Permitirá que la alerta **no se quede solo en una alarma sonora o LED**  
 - Enviará una notificación directa al **celular del usuario**  o a una aplicación en la nube.  
