@@ -57,7 +57,7 @@ Aunque a veces pase desapercibido, pequeñas fugas de gas en nuestros hogares ta
 
 ---
 
-## 🇵🇪 Situación en el Perú
+## Situación en el Perú
 
 En el Perú, el uso de **gas natural y GLP** se ha vuelto parte de la rutina de millones de familias.  
 Según el **Ministerio de Energía y Minas**, más del **70 % de los hogares en Lima** cocina con GLP.  
