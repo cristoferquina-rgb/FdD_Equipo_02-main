@@ -40,61 +40,79 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ---
 
+# Boya Segura Lima — Monitoreo de Playas
+
 ## Introducción
 
-La **ODS 13: Acción por el Clima** busca que todos los países adopten medidas urgentes frente al **cambio climático**, un fenómeno que ya afecta nuestra vida diaria con:
+La **ODS 14: Vida Submarina** y la **ODS 3: Salud y Bienestar** buscan proteger la salud de las personas y conservar los ecosistemas marinos.  
+Sin embargo, las **playas de Lima** enfrentan un grave problema de contaminación debido a:
 
-- Olas de calor más intensas  
-- Lluvias extremas  
-- Incendios cada vez más frecuentes  
+- Vertimiento de aguas residuales  
+- Acumulación de plásticos  
+- Presencia de bacterias como *Escherichia coli* y *Enterococcus faecalis*  
 
-Uno de los principales responsables de este problema son los **gases de efecto invernadero**, entre los cuales el **metano (CH₄)** ocupa un lugar especial por su gran impacto:  
-¡Es hasta **25 veces más potente** que el dióxido de carbono (ONU, 2023)!  
+Esto representa un riesgo sanitario directo: ¡Miles de bañistas ingresan al mar sin conocer el estado real del agua!  
+Actualmente, la **DIGESA** realiza monitoreos, pero no existen **sensores en tiempo real** que alerten a las personas (Ministerio del Ambiente, 2021).  
 
-Aunque a veces pase desapercibido, pequeñas fugas de gas en nuestros hogares también contribuyen a este problema global.
-
-<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/1ddf4ef3-2a3b-499f-b29a-ec3fa4fe84d2" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/a73bf62b-7037-4e16-8c3a-852a1570147a" />
 
 ---
 
 ## Situación en el Perú
 
-En el Perú, el uso de **gas natural y GLP** se ha vuelto parte de la rutina de millones de familias.  
-Según el **Ministerio de Energía y Minas**, más del **70 % de los hogares en Lima** cocina con GLP.  
+En la costa limeña:  
+- Las descargas de aguas residuales e industriales deterioran la calidad del agua.  
+- La falta de información inmediata hace que los bañistas **se expongan a enfermedades gastrointestinales y dérmicas**.  
+- La salud pública se ve afectada (ODS 3), y también la conservación marina (ODS 14).  
 
-Esto significa que:
-- Miles de balones de gas circulan por la ciudad diariamente.  
-- Facilitan la vida, pero **traen riesgos importantes**: explosiones o incendios.  
-
-Ejemplo: En **Villa El Salvador (2020)**, un accidente por fuga de gas dejó decenas de víctimas. Además del peligro humano, también hubo un impacto ambiental debido a la liberación de **metano**.
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a73bf62b-7037-4e16-8c3a-852a1570147a" />
+Actualmente, los reportes se publican **semanal o mensualmente**, lo que genera un desfase crítico entre la contaminación y la alerta a la población.  
 
 ---
 
 ## Propuesta de solución
 
-## SISTEMA INTEGRADO DE DETECCIÓN DE GASES EN HOGARES
+## SISTEMA INTEGRADO DE MONITOREO DE PLAYAS — BOYA SEGURA LIMA  
 
-Proponemos el desarrollo de un **sensor inteligente de fugas de gas**.  
-Este dispositivo funcionará detectando concentraciones peligrosas de **GLP o metano** mediante un **sensor MQ-2 o MQ-5**.  
+Se propone el desarrollo de una **boya flotante inteligente** que mida en tiempo real los indicadores de calidad de agua y envíe la información a una aplicación móvil y plataforma web.  
 
-Para hacerlo más útil y actual:
-- Se incorporará un **módulo WiFi (ESP8266 o ESP32)**  
-- Permitirá que la alerta **no se quede solo en una alarma sonora o LED**  
-- Enviará una notificación directa al **celular del usuario**  o a una aplicación en la nube.  
+Características:  
+- **Sensores para parámetros clave**: pH, turbidez, temperatura, oxígeno disuelto, conductividad, nutrientes (nitratos/fosfatos) y bacterias indicadores (*E. coli*, enterococos).  
+- **Energía limpia**: panel solar + batería recargable → operación continua (día y noche).  
+- **Conectividad IoT (ESP32 con WiFi/LoRa)**: datos en tiempo real accesibles para autoridades y bañistas.  
+- **Sistema de alerta accesible** (colores: verde, amarillo, rojo) con recomendaciones prácticas para la población.  
 
-De esta manera, incluso si la persona **no está en casa**, podrá recibir una advertencia y actuar a tiempo.
+De esta manera, incluso antes de ingresar al mar, una persona podrá conocer el nivel de riesgo sanitario y ambiental de cada playa.  
 
 ---
 
 ## Impacto en los ODS
 
-Este proyecto se vincula directamente con la **ODS 13: Acción por el Clima**, ya que:
-- Ayuda a **reducir la liberación de gases contaminantes**  
-- Contribuye también a la **ODS 3: Salud y Bienestar**, protegiendo la vida de las personas y previniendo accidentes en los hogares y comunidades.  
+Este proyecto se vincula directamente con:  
+
+- **ODS 14: Vida Submarina** → protege los ecosistemas marinos al identificar focos de contaminación.  
+- **ODS 3: Salud y Bienestar** → previene enfermedades gastrointestinales y dérmicas en los bañistas.  
+- **ODS 7: Energía Asequible y No Contaminante** → usa energía solar para operar sin conexión a red.  
+- **ODS 17: Alianzas para lograr los objetivos** → fomenta cooperación entre universidades, municipalidades, ONG y sector privado.  
 
 ---
 
-Este proyecto se vincula directamente con la ODS 13: Acción por el Clima, ya que ayuda a reducir la liberación de gases contaminantes, pero también se relaciona con la ODS 3: Salud y Bienestar, porque busca proteger la vida de las personas previniendo accidentes en los hogares y comunidades.
+## Impacto esperado
+
+- **Salud pública**: reducción de enfermedades en bañistas.  
+- **Confianza ciudadana**: transparencia en la información y turismo responsable.  
+- **Ambiente**: presión social sobre los emisores contaminantes.  
+- **Innovación**: Boya Segura Lima sería pionera en Latinoamérica en brindar **alertas sanitarias en tiempo real** para playas.  
+
+---
+
+## Referencias
+
+- Ministerio del Ambiente (2021). Calidad de agua en playas del Perú.  
+- Zhou et al. (2020). Environmental Monitoring.  
+- APHA (2017). *Standard Methods for the Examination of Water and Wastewater*.  
+- Li et al. (2019). *Biosensors and Bioelectronics*.  
+- García-García et al. (2018). *Marine Pollution Bulletin*.  
+- U.S. EPA (2020). Water Quality Monitoring Programs.  
+
+
 
