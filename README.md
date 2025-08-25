@@ -41,7 +41,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 ---
 
 ## Introducción
-## SISTEMA INTEGRADO DE DETECCION DE GASES EN HOGARES
+
 La **ODS 13: Acción por el Clima** busca que todos los países adopten medidas urgentes frente al **cambio climático**, un fenómeno que ya afecta nuestra vida diaria con:
 
 - Olas de calor más intensas  
@@ -73,6 +73,8 @@ Ejemplo: En **Villa El Salvador (2020)**, un accidente por fuga de gas dejó dec
 ---
 
 ## Propuesta de solución
+
+##SISTEMA INTEGRADO DE DETECCIÓN DE GASES EN HOGARES
 
 Proponemos el desarrollo de un **sensor inteligente de fugas de gas**.  
 Este dispositivo funcionará detectando concentraciones peligrosas de **GLP o metano** mediante un **sensor MQ-2 o MQ-5**.  
