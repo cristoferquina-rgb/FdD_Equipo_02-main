@@ -12,8 +12,7 @@ Somos el **Equipo 02** del curso **Fundamentos de Diseño 2025-2**, conformado p
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
-- ODS 3: Salud y Bienestar  
-- ODS 14: "Vida submarina"
+- ODS 11: Ciudades y comunidades sostenibles.
 
 ---
 
@@ -40,9 +39,9 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 # ODS 11: Ciudades y comunidades sostenibles
 Este objetivo busca que las ciudades sean inclusivas, seguras, resilientes y sostenibles, ya que concentran gran parte de la población mundial. En 2022 se alcanzaron 8000 millones de habitantes, más de la mitad en zonas urbanas, y se estima que en 2050 llegue al 70 %. Actualmente, 1100 millones viven en barrios marginales y podrían sumarse 2000 millones más en 30 años, lo que genera déficit de vivienda, infraestructura y servicios, además de contaminación y falta de espacios públicos. Aunque aumentaron las estrategias contra desastres, solo la mitad de la población urbana accedió al transporte público en 2022, evidenciando la necesidad de transformar la planificación y gestión urbana.
 
-## METAS:
-Meta 11.5: “De aquí a 2030, reducir significativamente el número de muertes y personas afectadas por los desastres, incluidos los relacionados con el agua, y disminuir considerablemente las pérdidas económicas directas ocasionadas por ellos, haciendo especial hincapié en la protección de los pobres y las personas en situaciones de vulnerabilidad.”
-Meta 11.6: “De aquí a 2030, reducir el impacto ambiental negativo per cápita de las ciudades, prestando especial atención a la calidad del aire y a la gestión de los desechos municipales y de otro tipo.”
+## Metas:
+-Meta 11.5: “De aquí a 2030, reducir significativamente el número de muertes y personas afectadas por los desastres, incluidos los relacionados con el agua, y disminuir considerablemente las pérdidas económicas directas ocasionadas por ellos, haciendo especial hincapié en la protección de los pobres y las personas en situaciones de vulnerabilidad.”
+-Meta 11.6: “De aquí a 2030, reducir el impacto ambiental negativo per cápita de las ciudades, prestando especial atención a la calidad del aire y a la gestión de l-los desechos municipales y de otro tipo.”
 
 <img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/5873048b-feb3-492f-a972-7676ab07f3e1" />
 
@@ -60,8 +59,6 @@ En conclusión, Lima enfrenta un doble desafío: mejorar la calidad del aire en 
 
 
 <img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/be751f8b-8dd3-478c-b8e9-73a5fbc2b129" />
-
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/cb954555-4923-442b-a92d-2191d103ffb6" />
 
 ---
 
@@ -90,12 +87,6 @@ Diseñar un sistema económico, modular y escalable que mejore la ventilación e
 -Notificaciones: envío de alertas vía WiFi/Bluetooth a usuarios o responsables.
 -Autonomía: alimentación por corriente y batería de respaldo, con opción solar.
 
-
-## Referencias
-
--IQAir. (2025, 6 de septiembre). Lima among the most polluted cities in the world. IQAir. Recuperado de https://www.iqair.com/us/newsroom/lima-among-the-most-polluted-cities-in-the-world-09-06-2025
--Tapia, V., Steenland, K., Sarnat, S. E., Vu, B., Liu, Y., Sánchez-Ccoyllo, O., Vasquez, V., Vasquez, J., Steenland, N. K., McKinney, W., Gonzales, G. F., & Gonzales, R. (2020). PM₂.₅ exposure on daily cardio-respiratory mortality in Lima, Peru, from 2010 to 2016. Environmental Health, 19(1), 7. https://doi.org/10.1186/s12940-020-0568-y
--Organización Mundial de la Salud (OMS). (2021). Global Air Quality Guidelines: Particulate Matter (PM₂.₅ and PM₁₀), Ozone, Nitrogen Dioxide, Sulfur Dioxide and Carbon Monoxide. World Health Organization. Recuperado de https://www.who.int/publications/i/item/9789240034228
 
 
 
