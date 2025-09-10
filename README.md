@@ -37,87 +37,65 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 ---
 
 ## 📌 Resumen Final  
-# 🌍 ODS 14: VIDA SUBMARINA
+# ODS 11: Ciudades y comunidades sostenibles
+Este objetivo busca que las ciudades sean inclusivas, seguras, resilientes y sostenibles, ya que concentran gran parte de la población mundial. En 2022 se alcanzaron 8000 millones de habitantes, más de la mitad en zonas urbanas, y se estima que en 2050 llegue al 70 %. Actualmente, 1100 millones viven en barrios marginales y podrían sumarse 2000 millones más en 30 años, lo que genera déficit de vivienda, infraestructura y servicios, además de contaminación y falta de espacios públicos. Aunque aumentaron las estrategias contra desastres, solo la mitad de la población urbana accedió al transporte público en 2022, evidenciando la necesidad de transformar la planificación y gestión urbana.
 
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/28466360-5a7d-4f01-b7cc-46a5fff47273" />
+## METAS:
+Meta 11.5: “De aquí a 2030, reducir significativamente el número de muertes y personas afectadas por los desastres, incluidos los relacionados con el agua, y disminuir considerablemente las pérdidas económicas directas ocasionadas por ellos, haciendo especial hincapié en la protección de los pobres y las personas en situaciones de vulnerabilidad.”
+Meta 11.6: “De aquí a 2030, reducir el impacto ambiental negativo per cápita de las ciudades, prestando especial atención a la calidad del aire y a la gestión de los desechos municipales y de otro tipo.”
 
-
----
-
-# Boya Segura Lima — Monitoreo de Playas
-
-## Introducción
-
-La **ODS 14: Vida Submarina** y la **ODS 3: Salud y Bienestar** buscan proteger la salud de las personas y conservar los ecosistemas marinos.  
-Sin embargo, las **playas de Lima** enfrentan un grave problema de contaminación debido a:
-
-- Vertimiento de aguas residuales  
-- Acumulación de plásticos  
-- Presencia de bacterias como *Escherichia coli* y *Enterococcus faecalis*  
-
-Esto representa un riesgo sanitario directo: ¡Miles de bañistas ingresan al mar sin conocer el estado real del agua!  
-Actualmente, la **DIGESA** realiza monitoreos, pero no existen **sensores en tiempo real** que alerten a las personas (Ministerio del Ambiente, 2021).  
-
-
-
+<img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/5873048b-feb3-492f-a972-7676ab07f3e1" />
 
 ---
 
-## Situación en el Perú
+## PROBLEMÁTICA EN EL PERÚ
 
-En la costa limeña:  
-- Las descargas de aguas residuales e industriales deterioran la calidad del agua.  
-- La falta de información inmediata hace que los bañistas **se expongan a enfermedades gastrointestinales y dérmicas**.  
-- La salud pública se ve afectada (ODS 3), y también la conservación marina (ODS 14).  
+En Lima se viven dos problemáticas que afectan directamente la salud y seguridad de las personas: la calidad del aire en interiores y la alta vulnerabilidad frente a incendios. Pasamos gran parte del día en espacios cerrados como colegios, oficinas o viviendas, donde el aire no siempre es saludable. La acumulación de dióxido de carbono (CO₂), humedad y otros compuestos deteriora la concentración y el bienestar. A esto se suma la contaminación exterior, en especial las partículas finas (PM2.5), que en Lima superan hasta tres veces los valores recomendados por la OMS (IQAir, 2024). Muchas veces abrir las ventanas para ventilar no resuelve el problema, ya que puede significar dejar entrar más contaminación, lo que genera un dilema cotidiano.
 
-Actualmente, los reportes se publican **semanal o mensualmente**, lo que genera un desfase crítico entre la contaminación y la alerta a la población.  
+Por otro lado, los incendios representan una amenaza constante en la capital. Según reportes del Cuerpo General de Bomberos y del CENEPRED, Lima concentra la mayor cantidad de siniestros urbanos en el país (INDECI, 2022). En estos casos, la mayoría de muertes no se deben a las llamas, sino a la inhalación de humo y gases tóxicos, que llenan rápidamente los ambientes, reducen la visibilidad y provocan asfixia en pocos minutos (NFPA, 2019).
+
+Esta situación es todavía más crítica en distritos con alta densidad poblacional y bajos recursos económicos, donde muchas familias carecen de sistemas de ventilación adecuados o dispositivos de seguridad accesibles. Los grupos más vulnerables, adultos mayores, niños y personas con movilidad reducida, son quienes enfrentan mayores riesgos en este contexto.
+
+En conclusión, Lima enfrenta un doble desafío: mejorar la calidad del aire en interiores, considerando tanto el CO₂ como la exposición a contaminantes exteriores como el PM2.5, y al mismo tiempo fortalecer la seguridad frente a incendios. Esto evidencia la necesidad de soluciones tecnológicas accesibles, modulares y eficientes que combinen ventilación inteligente con protocolos de emergencia, adaptadas a la realidad urbana de la ciudad.
+
+
+<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/be751f8b-8dd3-478c-b8e9-73a5fbc2b129" />
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/cb954555-4923-442b-a92d-2191d103ffb6" />
+
+---
+
+# SmartVent – Respira tranquilo, vive protegido
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/fe8d0138-987b-4a36-a371-daf679c65595" />
 
 ---
 
 ## Propuesta de solución
 
-## SISTEMA INTEGRADO DE MONITOREO DE PLAYAS — BOYA SEGURA LIMA  
+## Ventana Inteligente Retrofit
+Es un módulo adaptable a cualquier ventana existente, que integra sensores, actuadores y un sistema de desbloqueo eléctrico. Permite mejorar la calidad del aire interior y actúa como medida de seguridad en emergencias como incendios y salidas en caso de emergencias.
 
-Se propone el desarrollo de una **boya flotante inteligente** que mida en tiempo real los indicadores de calidad de agua y envíe la información a una aplicación móvil y plataforma web.  
+## ¿Cuál será su uso?
+En la vida diaria: abrir o cerrar la ventana automáticamente según la calidad del aire interior (CO₂) y la contaminación exterior (PM2.5).
+**En emergencias:** desbloquear y abrir la ventana para liberar humo y facilitar la evacuación, además de activar alarmas y notificaciones.
 
-Características:  
-- **Sensores para parámetros clave**: pH, turbidez, temperatura, oxígeno disuelto, conductividad, nutrientes (nitratos/fosfatos) y bacterias indicadores (*E. coli*, enterococos).  
-- **Energía limpia**: panel solar + batería recargable → operación continua (día y noche).  
-- **Conectividad IoT (ESP32 con WiFi/LoRa)**: datos en tiempo real accesibles para autoridades y bañistas.  
-- **Sistema de alerta accesible** (colores: verde, amarillo, rojo) con recomendaciones prácticas para la población.  
+## Objetivo:
+Diseñar un sistema económico, modular y escalable que mejore la ventilación en colegios, oficinas y viviendas, y que incremente la seguridad de las personas en caso de incendios o emergencias.
 
-De esta manera, incluso antes de ingresar al mar, una persona podrá conocer el nivel de riesgo sanitario y ambiental de cada playa.  
+## Funciones que cumplirá:
+-Medición ambiental: sensores de CO₂, partículas y humo.
+-Ventilación automática: apertura/cierre según parámetros de calidad de aire.
+-Respuesta a incendios: desbloqueo eléctrico + apertura total + alarma sonora y visual.
+-Notificaciones: envío de alertas vía WiFi/Bluetooth a usuarios o responsables.
+-Autonomía: alimentación por corriente y batería de respaldo, con opción solar.
 
----
-
-## Impacto en los ODS
-
-Este proyecto se vincula directamente con:  
-
-- **ODS 14: Vida Submarina** → protege los ecosistemas marinos al identificar focos de contaminación.  
-- **ODS 3: Salud y Bienestar** → previene enfermedades gastrointestinales y dérmicas en los bañistas.  
-- **ODS 7: Energía Asequible y No Contaminante** → usa energía solar para operar sin conexión a red.  
-- **ODS 17: Alianzas para lograr los objetivos** → fomenta cooperación entre universidades, municipalidades, ONG y sector privado.  
-
----
-
-## Impacto esperado
-
-- **Salud pública**: reducción de enfermedades en bañistas.  
-- **Confianza ciudadana**: transparencia en la información y turismo responsable.  
-- **Ambiente**: presión social sobre los emisores contaminantes.  
-- **Innovación**: Boya Segura Lima sería pionera en Latinoamérica en brindar **alertas sanitarias en tiempo real** para playas.  
-
----
 
 ## Referencias
 
-- Ministerio del Ambiente (2021). Calidad de agua en playas del Perú.  
-- Zhou et al. (2020). Environmental Monitoring.  
-- APHA (2017). *Standard Methods for the Examination of Water and Wastewater*.  
-- Li et al. (2019). *Biosensors and Bioelectronics*.  
-- García-García et al. (2018). *Marine Pollution Bulletin*.  
-- U.S. EPA (2020). Water Quality Monitoring Programs.  
+-IQAir. (2025, 6 de septiembre). Lima among the most polluted cities in the world. IQAir. Recuperado de https://www.iqair.com/us/newsroom/lima-among-the-most-polluted-cities-in-the-world-09-06-2025
+-Tapia, V., Steenland, K., Sarnat, S. E., Vu, B., Liu, Y., Sánchez-Ccoyllo, O., Vasquez, V., Vasquez, J., Steenland, N. K., McKinney, W., Gonzales, G. F., & Gonzales, R. (2020). PM₂.₅ exposure on daily cardio-respiratory mortality in Lima, Peru, from 2010 to 2016. Environmental Health, 19(1), 7. https://doi.org/10.1186/s12940-020-0568-y
+-Organización Mundial de la Salud (OMS). (2021). Global Air Quality Guidelines: Particulate Matter (PM₂.₅ and PM₁₀), Ozone, Nitrogen Dioxide, Sulfur Dioxide and Carbon Monoxide. World Health Organization. Recuperado de https://www.who.int/publications/i/item/9789240034228
 
 
 
