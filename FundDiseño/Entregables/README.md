@@ -1,22 +1,32 @@
 # ﻿CAJA NEGRA
- ---
  
 <img width="998" height="657" alt="caja negra" src="https://github.com/user-attachments/assets/a9375992-1ae3-42c6-82a6-d39ccc6f0a73" />
 
+---
 
 # ESTRUCTURA DE FUNCIONES 
-----
+
 <img width="1642" height="733" alt="ESTRUCTURADE FUNCIONES" src="https://github.com/user-attachments/assets/d52d75b9-51c8-4274-8da2-25cb60944053" />
 
+---
 
 # MATRIZ MORFOLÓGICA
----
+
 
 <img width="1080" height="1350" alt="7" src="https://github.com/user-attachments/assets/24406edc-b06d-48f4-b564-8593bd138955" />
 
 <img width="1080" height="1350" alt="8" src="https://github.com/user-attachments/assets/9c0a8037-8c97-4910-8198-efd42d58f15e" />
 
 <img width="1920" height="1080" alt="9" src="https://github.com/user-attachments/assets/36523569-dc15-42cb-a030-15672b143c88" />
+
+---
+
+# MATRIZ PUGH
+
+
+![Matriz pugh_page-0001](https://github.com/user-attachments/assets/3690c041-543a-4e7a-9747-0e0762d751a9)
+
+
 
 
 
