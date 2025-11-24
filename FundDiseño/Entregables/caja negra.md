@@ -1,23 +1,2 @@
 ﻿CAJA NEGRA
-
-SALIDA
-
-N
-
-ENERGÍAELÉCTRICA » ENERGÍAMECÁNICA
-
-SISTEMA DE
-
-VENTILACIÓN
-
-SEÑALESDE LOS DERIVADOSDELPETRÓLEO AUTOMÁTICA lo - — —SEÑALES——\_ \_\_\_INDICADOR.VISUAL. - \_ ———» .................SEÑALES DETEMPERATURA \_» (SMART VENT) SEÑALES INDICADORSONORAS «
-
-po- o o — — - - - . O C - ——\_.
-
-SEÑALESDE HUMEDAD
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ) SEÑALDEINFORMACIÓNALUSUARIO
-
-SEÑALES DELCONTROLDELUSUARIO
-
-N )
+<img width="998" height="657" alt="caja negra" src="https://github.com/user-attachments/assets/a9375992-1ae3-42c6-82a6-d39ccc6f0a73" />
