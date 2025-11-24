@@ -1,5 +1,4 @@
 # MATRIZ MORFOLÓGICA
----
 
 <img width="1080" height="1350" alt="7" src="https://github.com/user-attachments/assets/24406edc-b06d-48f4-b564-8593bd138955" />
 
