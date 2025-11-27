@@ -5,16 +5,38 @@
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/c4207bbe-a760-44e4-b0a5-8a2c6042af49" />
 
----
 
-## 🌍 Descripción del Equipo  
-Somos el **Equipo 02** del curso **Fundamentos de Diseño 2025-2**, conformado por estudiantes de la carrera de Ingeniería Informática / Industrial.  
-Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
+## 📑 Índice
 
-Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
-- ODS 11: Ciudades y comunidades sostenibles.
+1. [📘 Presentación del Equipo](#-presentación-del-equipo)
+2. [⭐ ODS Prioritario](#-ods-prioritario)
+3. [📸 Fotografía del Equipo](#-fotografía-del-equipo)
+4. [👥 Integrantes del Equipo](#-integrantes-del-equipo)
+5. [📝 Problemática en el Perú](#-problemática-en-el-perú)
+6. [💡 Propuesta de Solución – SmartVent](#-propuesta-de-solución--smartvent)
+7. [⚙️ Funciones del Sistema](#️-funciones-del-sistema)
+8. [📦 Módulos del Proyecto](#-módulos-del-proyecto)
+    - [🔌 Módulo Electrónico](#-módulo-electrónico)
+    - [🛠️ Módulo Mecánico](#️-módulo-mecánico)
+    - [💻 Módulo de Software](#-módulo-de-software)
+9. [📋 Componentes Utilizados](#-componentes-utilizados)
+10. [📁 Entregables del Proyecto](#-entregables-del-proyecto)
+11. [🧪 Proceso de Diseño](#-proceso-de-diseño)
+12. [📂 Estructura del Repositorio](#-estructura-del-repositorio)
+13. [✨ Conclusiones y Trabajo Futuro](#-conclusiones-y-trabajo-futuro)
 
----
+## 📘 Presentación del Equipo
+
+Somos el Equipo 02 del curso Fundamentos de Diseño 2025-2, conformado por estudiantes comprometidos con el desarrollo de soluciones innovadoras con impacto social, tecnológico y ambiental.
+
+Nuestro trabajo se alinea con los Objetivos de Desarrollo Sostenible (ODS), especialmente los relacionados con ciudades sostenibles y resilientes.
+
+## ⭐ ODS Prioritario
+
+**ODS 11 – Ciudades y comunidades sostenibles**
+
+Buscamos aportar a la construcción de ciudades más seguras, saludables y resilientes mediante tecnologías accesibles y adaptables a la realidad urbana.
+
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
@@ -22,7 +44,6 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
   <em>Figura 1. Fotografía del equipo 2</em>
 </p>
 
----
 
 ## 👥 Integrantes del Equipo  
 
