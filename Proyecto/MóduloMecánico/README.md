@@ -30,10 +30,17 @@ Los siguientes archivos .stl corresponden a cada una de las piezas diseñadas.
 Están listos para ser abiertos en Cura, PrusaSlicer u otro software de impresión 3D.
 
 📦 Piezas del ensamblaje:
+
 ● Caja (https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/Caja.stl)
+
 ● Tapa ( https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/tapa.stl)
+
 ● Soporte ( https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/soporte.stl)
+
 ● Soporte del motor ( https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/Soporte%20del%20motor.stl)
+
 ● Correa de ventana ( https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/Correa%20de%20ventana.stl)
+
 ● Engranaje ( https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/Engranaje.stl) 
+
 
