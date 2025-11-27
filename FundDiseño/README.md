@@ -33,7 +33,7 @@ Incluye:
 
 ✔️ Imágenes, archivos, información usados en las diapositivas
 
-📝 3. Talleres
+## 📝 3. Talleres
 
 Carpeta: [Talleres](https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/tree/main/FundDise%C3%B1o/Talleres)
 
@@ -48,4 +48,5 @@ Taller 03: matrices o funciones
 Talleres complementarios del curso
 
 Esta carpeta muestra la evolución del aprendizaje y la aplicación práctica de cada tema.
+
 
