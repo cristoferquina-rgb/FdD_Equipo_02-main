@@ -1,30 +1,49 @@
-# ﻿CAJA NEGRA
- 
-<img width="998" height="657" alt="caja negra" src="https://github.com/user-attachments/assets/a9375992-1ae3-42c6-82a6-d39ccc6f0a73" />
+# Proyecto — Entregables del Ciclo
+Este repositorio contiene los entregables desarrollados a lo largo del proyecto. Cada sección incluye los documentos y recursos utilizados durante el proceso de diseño, análisis y modelado.
+---
+🧩 Entregable 1 — Desarrollo Conceptual y Analítico
+
+Este entregable reúne todo el proceso inicial de análisis del problema, definición del producto y evaluación de alternativas.
+
+✔️ 1. Caja Negra
+
+Descripción general del sistema, mostrando entradas, procesos internos y salidas del producto. Permite visualizar la función principal sin entrar en detalles técnicos.
+
+✔️ 2. Lista de Exigencias
+
+Conjunto de requisitos funcionales y no funcionales que el producto debe cumplir. Sirve como base para evaluar y validar las propuestas generadas.
+
+✔️ 3. Plan de Trabajo
+
+Cronograma y organización del equipo, donde se especifican tareas, tiempos estimados, responsables y etapas del proyecto.
+
+✔️ 4. Estructura de Funciones
+
+Descomposición jerárquica de las funciones principales y secundarias del sistema. Ayuda a comprender cómo se organiza el producto a nivel funcional.
+
+✔️ 5. Matriz Morfológica
+
+Tabla donde se proponen diferentes soluciones o alternativas para cada función del producto. Permite explorar diversas combinaciones.
+
+✔️ 6. Matriz Pugh
+
+Método de selección de alternativas donde se comparan las opciones generadas con un patrón de referencia, permitiendo seleccionar la mejor propuesta.
 
 ---
 
-# ESTRUCTURA DE FUNCIONES 
+🛠️ Entregable 2 — Diseño y Desarrollo del Producto
 
-<img width="1642" height="733" alt="ESTRUCTURADE FUNCIONES" src="https://github.com/user-attachments/assets/d52d75b9-51c8-4274-8da2-25cb60944053" />
+Este entregable recopila el trabajo gráfico y técnico del diseño final del producto.
 
----
+✔️ 1. Bocetos 2D
 
-# MATRIZ MORFOLÓGICA
+Ilustraciones iniciales del diseño en dos dimensiones. Permiten visualizar la forma, proporciones y posibles configuraciones antes del modelado digital.
 
+✔️ 2. Planos 2D (Onshape)
 
-<img width="1080" height="1350" alt="7" src="https://github.com/user-attachments/assets/24406edc-b06d-48f4-b564-8593bd138955" />
-
-<img width="1080" height="1350" alt="8" src="https://github.com/user-attachments/assets/9c0a8037-8c97-4910-8198-efd42d58f15e" />
-
-<img width="1920" height="1080" alt="9" src="https://github.com/user-attachments/assets/36523569-dc15-42cb-a030-15672b143c88" />
-
----
-
-# MATRIZ PUGH
+Modelos realizados en Onshape, incluyendo los planos técnicos del modelo final que fue enviado a imprimir, con medidas, cortes, vistas y detalles necesarios para su fabricación.
 
 
-![Matriz pugh_page-0001](https://github.com/user-attachments/assets/3690c041-543a-4e7a-9747-0e0762d751a9)
 
 
 
