@@ -8,7 +8,7 @@ Antes de iniciar el modelado, se completaron los módulos obligatorios de capaci
 
 Puedes ver el certificado aquí:
 
-[📄 Certificados de Onshape](Certificados%20Onshape.pdf)
+https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/Certificados%20Onshape.pdf
 
 ## ✔️ 2. Modelado 3D del Sistema
 
@@ -30,9 +30,10 @@ Los siguientes archivos .stl corresponden a cada una de las piezas diseñadas.
 Están listos para ser abiertos en Cura, PrusaSlicer u otro software de impresión 3D.
 
 📦 Piezas del ensamblaje:
-● Caja (
-● Tapa (
-● Soporte (
-● Soporte del motor (
-● Correa de ventana (
-● Engranaje (
+● Caja (https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/Caja.stl)
+● Tapa ( https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/tapa.stl)
+● Soporte ( https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/soporte.stl)
+● Soporte del motor ( https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/Soporte%20del%20motor.stl)
+● Correa de ventana ( https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/Correa%20de%20ventana.stl)
+● Engranaje ( https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/Engranaje.stl) 
+
