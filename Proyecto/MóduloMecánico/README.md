@@ -8,9 +8,7 @@ Esta sección presenta el desarrollo mecánico del proyecto, desde la validació
 
 Antes de iniciar el modelado, se completaron los módulos obligatorios de capacitación en Onshape, garantizando el uso correcto de herramientas de bocetado, ensamblaje y modelado 3D.
 
-Puedes ver el certificado aquí:
-
-https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/Certificados%20Onshape.pdf
+Puedes ver el certificado aquí: [Certificados Onshape](https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/Certificados%20Onshape.pdf)
 
 ## ✔️ 2. Modelado 3D del Sistema
 
@@ -44,6 +42,7 @@ Están listos para ser abiertos en Cura, PrusaSlicer u otro software de impresi�
 ● Correa de ventana ( https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/Correa%20de%20ventana.stl)
 
 ● Engranaje ( https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/Engranaje.stl) 
+
 
 
 
