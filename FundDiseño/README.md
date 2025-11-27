@@ -39,14 +39,7 @@ Carpeta: [Talleres](https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/tre
 
 Contiene los talleres desarrollados durante el transcurso del curso, el cual nos han ayudado a poder reforzar conocimientos para poder realizar este proyecto.
 
-Taller 01: análisis inicial o fundamentación
-
-Taller 02: bocetos e ideas
-
-Taller 03: matrices o funciones
-
-Talleres complementarios del curso
-
 Esta carpeta muestra la evolución del aprendizaje y la aplicación práctica de cada tema.
+
 
 
