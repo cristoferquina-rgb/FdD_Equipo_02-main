@@ -17,7 +17,7 @@ Incluye:
 
 ## 🛠️ 2. Módulo Mecánico
 
-Carpeta:[ https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/tree/main/Proyecto/M%C3%B3duloMec%C3%A1nico](https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/tree/main/Proyecto/M%C3%B3duloMec%C3%A1nico)
+Carpeta: [Proyectos/Modulo_Mecánico](https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/tree/main/Proyecto/M%C3%B3duloMec%C3%A1nico)
 
 En este módulo se encuentran todas las piezas y documentos relacionados al diseño físico del sistema.
 
@@ -34,7 +34,7 @@ Incluye:
 
 ## 💻 3. Módulo de Software
 
-Carpeta: Proyectos/Modulo_Software
+Carpeta: [Proyectos/Modulo_Software](https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/tree/main/Proyecto/M%C3%B3duloSoftware)
 
 Este módulo contiene el código y la lógica del sistema digital que controla el proyecto.
 
