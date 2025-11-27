@@ -31,17 +31,18 @@ Están listos para ser abiertos en Cura, PrusaSlicer u otro software de impresi�
 
 📦 Piezas del ensamblaje:
 
-● Caja (https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/Caja.stl)
+● [Caja](https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/Caja.stl)
 
-● Tapa ( https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/tapa.stl)
+● [Tapa]( https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/tapa.stl)
 
-● Soporte ( https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/soporte.stl)
+● [Soporte]( https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/soporte.stl)
 
-● Soporte del motor ( https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/Soporte%20del%20motor.stl)
+● [Soporte del motor]( https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/Soporte%20del%20motor.stl)
 
-● Correa de ventana ( https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/Correa%20de%20ventana.stl)
+● [Correa de ventana]( https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/Correa%20de%20ventana.stl)
 
-● Engranaje ( https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/Engranaje.stl) 
+● [Engranaje]( https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/Engranaje.stl) 
+
 
 
 
