@@ -2,6 +2,8 @@
 
 Esta sección presenta el desarrollo mecánico del proyecto, desde la validación del modelado en Onshape hasta la generación de las piezas finales exportadas en formato .stl listas para imprimir.
 
+--- 
+
 ## ✔️ 1. Certificados de Onshape
 
 Antes de iniciar el modelado, se completaron los módulos obligatorios de capacitación en Onshape, garantizando el uso correcto de herramientas de bocetado, ensamblaje y modelado 3D.
@@ -14,15 +16,15 @@ https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3
 
 Las piezas del proyecto fueron diseñadas completamente en Onshape, considerando:
 
-Dimensiones ajustadas al prototipo.
+● Dimensiones ajustadas al prototipo.
 
-Ensamblaje funcional entre componentes.
+● Ensamblaje funcional entre componentes.
 
-Compatibilidad con impresión 3D.
+● Compatibilidad con impresión 3D.
 
-Tolerancias adecuadas para movimiento y acople.
+● Tolerancias adecuadas para movimiento y acople.
 
-El modelado incluye: caja, tapa, engranajes, soportes y la correa del mecanismo.
+● El modelado incluye: caja, tapa, engranajes, soportes y la correa del mecanismo.
 
 ## ✔️ 3. Archivos STL listos para impresión
 
@@ -42,5 +44,6 @@ Están listos para ser abiertos en Cura, PrusaSlicer u otro software de impresi�
 ● Correa de ventana ( https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/Correa%20de%20ventana.stl)
 
 ● Engranaje ( https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/Proyecto/M%C3%B3duloMec%C3%A1nico/Engranaje.stl) 
+
 
 
