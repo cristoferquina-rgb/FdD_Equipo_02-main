@@ -39,6 +39,8 @@ Método de selección de alternativas donde se comparan las opciones generadas c
 
 Este entregable recopila el trabajo gráfico y técnico del diseño final del producto.
 
+( https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/FundDise%C3%B1o/Entregables/3.%20%5BEntregable%20trabajado%5D.md ) 
+
 ✔️ **1. Bocetos 2D**
 
 Ilustraciones iniciales del diseño en dos dimensiones. Permiten visualizar la forma, proporciones y posibles configuraciones antes del modelado digital.
@@ -46,6 +48,7 @@ Ilustraciones iniciales del diseño en dos dimensiones. Permiten visualizar la f
 ✔️ **2. Planos 2D (Onshape)**
 
 Modelos realizados en Onshape, incluyendo los planos técnicos del modelo final que fue enviado a imprimir, con medidas, cortes, vistas y detalles necesarios para su fabricación.
+
 
 
 
