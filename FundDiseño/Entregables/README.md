@@ -11,6 +11,8 @@ https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/FundDise%C3%B
 
 Descripción general del sistema, mostrando entradas, procesos internos y salidas del producto. Permite visualizar la función principal sin entrar en detalles técnicos.
 
+https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/FundDise%C3%B1o/Entregables/Caja%20negra.md
+
 ✔️ 2. Lista de Exigencias
 
 Conjunto de requisitos funcionales y no funcionales que el producto debe cumplir. Sirve como base para evaluar y validar las propuestas generadas.
@@ -44,6 +46,7 @@ Ilustraciones iniciales del diseño en dos dimensiones. Permiten visualizar la f
 ✔️ 2. Planos 2D (Onshape)
 
 Modelos realizados en Onshape, incluyendo los planos técnicos del modelo final que fue enviado a imprimir, con medidas, cortes, vistas y detalles necesarios para su fabricación.
+
 
 
 
