@@ -10,9 +10,9 @@ Carpeta: [Entregables](https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/
 Esta sección reúne los documentos formales entregados durante el avance del proyecto.
 Incluye:
 
-✔️ Entregable 1: caja negra, lista de exigencias, plan de trabajo, matriz morfológica, matriz Pugh, estructura de funciones.
+✔️ Entregable 1: Lista de exigencias, plan de trabajo, caja negra, estructura de funciones, matriz morfológica, matriz Pugh .
 
-✔️ Entregable 2: bocetos 2D, modelado 3D, planos técnicos e impresión 3D.
+✔️ Entregable 2: Bocetos 2D, planos técnicos del modelado 3D.
 
 ✔️ Documentos PDF, imágenes y archivos .md asociados a cada entrega.
 
@@ -48,3 +48,4 @@ Taller 03: matrices o funciones
 Talleres complementarios del curso
 
 Esta carpeta muestra la evolución del aprendizaje y la aplicación práctica de cada tema.
+
