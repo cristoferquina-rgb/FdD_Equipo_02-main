@@ -5,6 +5,8 @@ Este repositorio contiene los entregables desarrollados a lo largo del proyecto.
 
 Este entregable reúne todo el proceso inicial de análisis del problema, definición del producto y evaluación de alternativas.
 
+https://github.com/cristoferquina-rgb/FdD_Equipo_02-main/blob/main/FundDise%C3%B1o/Entregables/2.%5BEntregable%20trabajado%5D.md
+
 ✔️ 1. Caja Negra
 
 Descripción general del sistema, mostrando entradas, procesos internos y salidas del producto. Permite visualizar la función principal sin entrar en detalles técnicos.
@@ -42,6 +44,7 @@ Ilustraciones iniciales del diseño en dos dimensiones. Permiten visualizar la f
 ✔️ 2. Planos 2D (Onshape)
 
 Modelos realizados en Onshape, incluyendo los planos técnicos del modelo final que fue enviado a imprimir, con medidas, cortes, vistas y detalles necesarios para su fabricación.
+
 
 
 
