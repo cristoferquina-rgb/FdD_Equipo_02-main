@@ -49,6 +49,7 @@ Ilustraciones iniciales del diseño en dos dimensiones. Permiten visualizar la f
 
 Modelos realizados en Onshape, incluyendo los planos técnicos del modelo final que fue enviado a imprimir, con medidas, cortes, vistas y detalles necesarios para su fabricación.
 
+HOLA-COMO ESTAS
 
 
 
