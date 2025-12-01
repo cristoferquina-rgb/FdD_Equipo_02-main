@@ -8,22 +8,22 @@
 
 ## 📑 Índice
 
-1. [📘 Presentación del Equipo](#-presentación-del-equipo)
-2. [⭐ ODS Prioritario](#-ods-prioritario)
-3. [📸 Fotografía del Equipo](#-fotografía-del-equipo)
-4. [👥 Integrantes del Equipo](#-integrantes-del-equipo)
-5. [📝 Problemática en el Perú](#-problemática-en-el-perú)
-6. [💡 Propuesta de Solución – SmartVent](#-propuesta-de-solución--smartvent)
-7. [⚙️ Funciones del Sistema](#️-funciones-del-sistema)
-8. [📦 Módulos del Proyecto](#-módulos-del-proyecto)
-    - [🔌 Módulo Electrónico](#-módulo-electrónico)
-    - [🛠️ Módulo Mecánico](#️-módulo-mecánico)
-    - [💻 Módulo de Software](#-módulo-de-software)
-9. [📋 Componentes Utilizados](#-componentes-utilizados)
-10. [📁 Entregables del Proyecto](#-entregables-del-proyecto)
-11. [🧪 Proceso de Diseño](#-proceso-de-diseño)
-12. [📂 Estructura del Repositorio](#-estructura-del-repositorio)
-13. [✨ Conclusiones y Trabajo Futuro](#-conclusiones-y-trabajo-futuro)
+1. [📘 Presentación del Equipo](#presentación-del-equipo)
+2. [⭐ ODS Prioritario](#ods-prioritario)
+3. [📸 Fotografía del Equipo](#fotografía-del-equipo)
+4. [👥 Integrantes del Equipo](#integrantes-del-equipo)
+5. [📝 Problemática en el Perú](#5-problemática-en-el-perú)
+6. [💡 Propuesta de Solución – SmartVent](#6-propuesta-de-solución--smartvent)
+7. [⚙️ Funciones del Sistema](#7-funciones-del-sistema)
+8. [📦 Módulos del Proyecto](#8-módulos-del-proyecto)
+    - [🔌 Módulo Electrónico](#81-módulo-electrónico)
+    - [🛠️ Módulo Mecánico](#82-módulo-mecánico)
+    - [💻 Módulo de Software](#83-módulo-de-software)
+9. [📋 Componentes Utilizados](#9-componentes-utilizados)
+10. [📁 Entregables del Proyecto](#10-entregables-del-proyecto)
+11. [🧪 Proceso de Diseño](#11-proceso-de-diseño)
+12. [📂 Estructura del Repositorio](#12-estructura-del-repositorio)
+13. [✨ Conclusiones y Trabajo Futuro](#13-conclusiones-y-trabajo-futuro)
 
 ## 📘 Presentación del Equipo
 
