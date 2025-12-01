@@ -206,5 +206,23 @@ A continuación se presenta un cuadro organizado para completar los componentes 
 
 ---
 
+## ✨ 13. Conclusiones y Trabajo Futuro
+
+SmartVent cumple todas las exigencias técnicas: control, seguridad, ergonomía, energía, señales, mecánica, software e instalación.
+
+El sistema es seguro, silencioso, resistente y accesible.
+
+La modularidad permite mantenimiento sencillo y reemplazo de piezas.
+
+Futuras mejoras pueden incluir:
+
+- Panel solar integrado,
+
+- Más sensores,
+
+- Integración con domótica,
+
+- Versión industrial.
+
 
 
