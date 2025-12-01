@@ -72,6 +72,7 @@ Permite ventilar de forma automática ante niveles peligrosos de gas o temperatu
 
 El sistema analiza continuamente el ambiente interior y responde mediante apertura, activación de alarmas y envío de alertas remotas. Su diseño es compacto, adaptable a marcos existentes y pensado para funcionar sin interrumpir la vida cotidiana.
 
+<p align="center">
 <img width="293" height="240" alt="image" src="https://github.com/user-attachments/assets/63c7845a-e0d6-4821-bec0-5a9b7be3a413" />
 
 
@@ -103,8 +104,6 @@ El sistema analiza continuamente el ambiente interior y responde mediante apertu
 - Detectar humo, gases y partículas tóxicas.
 - Permitir apertura manual en caso necesario.
 
-<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/be751f8b-8dd3-478c-b8e9-73a5fbc2b129" />
-
 
 ## Módulos del Proyecto
 
@@ -115,7 +114,8 @@ El sistema analiza continuamente el ambiente interior y responde mediante apertu
 - Cuenta con señales de salida como: estado, emergencia, fin de proceso y control de actuadores.
 - Funciona conectado a la red eléctrica.
 - El hardware incluye mecanismos que abren la ventana.
-- 
+
+<p align="center">
 <img width="600" height="650" alt="image" src="https://github.com/user-attachments/assets/92942aa4-fabb-45dd-a3c8-7c662745cd35" />
 
 ### 🛠️Módulo Mecánico
@@ -126,8 +126,9 @@ El sistema analiza continuamente el ambiente interior y responde mediante apertu
 - La estructura está diseñada según normas de seguridad contra incendios y calidad del aire.
 - Incluye mecanismo de desbloqueo manual para emergencias.
 - Está construido para cumplir criterios de ergonomía: suave, silencioso y fácil de usar para cualquier persona.
-
-  <img width="962" height="353" alt="image" src="https://github.com/user-attachments/assets/df187840-61bb-44e2-b12e-5233b1c1709f" />
+  
+<p align="center">
+<img width="962" height="353" alt="image" src="https://github.com/user-attachments/assets/df187840-61bb-44e2-b12e-5233b1c1709f" />
 
 
 ### 💻Módulo de Software
@@ -138,6 +139,7 @@ El sistema analiza continuamente el ambiente interior y responde mediante apertu
 - El firmware administra adquisición de datos y control del actuador.
 - Gestiona los modos de operación del sistema.
 
+<p align="center">
 <img width="600" height="232" alt="image" src="https://github.com/user-attachments/assets/6627de42-ed58-4b75-8a73-c4a33c750bee" />
 
 
