@@ -72,6 +72,8 @@ Permite ventilar de forma automática ante niveles peligrosos de gas o temperatu
 
 El sistema analiza continuamente el ambiente interior y responde mediante apertura, activación de alarmas y envío de alertas remotas. Su diseño es compacto, adaptable a marcos existentes y pensado para funcionar sin interrumpir la vida cotidiana.
 
+<img width="293" height="240" alt="image" src="https://github.com/user-attachments/assets/63c7845a-e0d6-4821-bec0-5a9b7be3a413" />
+
 
 ## Funciones del Sistema
 
@@ -113,8 +115,8 @@ El sistema analiza continuamente el ambiente interior y responde mediante apertu
 - Cuenta con señales de salida como: estado, emergencia, fin de proceso y control de actuadores.
 - Funciona conectado a la red eléctrica.
 - El hardware incluye mecanismos que abren la ventana.
-
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/fe8d0138-987b-4a36-a371-daf679c65595" />
+- 
+<img width="600" height="650" alt="image" src="https://github.com/user-attachments/assets/92942aa4-fabb-45dd-a3c8-7c662745cd35" />
 
 ### 🛠️Módulo Mecánico
 
@@ -125,6 +127,9 @@ El sistema analiza continuamente el ambiente interior y responde mediante apertu
 - Incluye mecanismo de desbloqueo manual para emergencias.
 - Está construido para cumplir criterios de ergonomía: suave, silencioso y fácil de usar para cualquier persona.
 
+  <img width="962" height="353" alt="image" src="https://github.com/user-attachments/assets/df187840-61bb-44e2-b12e-5233b1c1709f" />
+
+
 ### 💻Módulo de Software
 
 - Controla sensores, alarmas, extractor y actuadores según el algoritmo.
@@ -132,6 +137,8 @@ El sistema analiza continuamente el ambiente interior y responde mediante apertu
 - Cuenta con dashboard en tiempo real.
 - El firmware administra adquisición de datos y control del actuador.
 - Gestiona los modos de operación del sistema.
+
+<img width="600" height="232" alt="image" src="https://github.com/user-attachments/assets/6627de42-ed58-4b75-8a73-c4a33c750bee" />
 
 
 ## 📋Componentes Utilizados
