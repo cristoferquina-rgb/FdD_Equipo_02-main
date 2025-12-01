@@ -32,8 +32,9 @@ Nuestro trabajo se alinea con los Objetivos de Desarrollo Sostenible (ODS), espe
 ## ⭐ ODS Prioritario
 
 **ODS 11 – Ciudades y comunidades sostenibles**
+**ODS 3 – Salud y Bienestar**
 
-Buscamos aportar a la construcción de ciudades más seguras, saludables y resilientes mediante tecnologías accesibles y adaptables a la realidad urbana.
+Nuestro prototipo se alinea con los ODS 3 (Salud y Bienestar) y ODS 11 (Ciudades Sostenibles), impulsando el bienestar y la sostenibilidad en el hogar. 
 
 
 ## 📸 Fotografía del Equipo  
