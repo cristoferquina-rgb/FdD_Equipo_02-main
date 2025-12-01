@@ -116,7 +116,7 @@ El sistema analiza continuamente el ambiente interior y responde mediante apertu
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/fe8d0138-987b-4a36-a371-daf679c65595" />
 
-### 🛠️ Módulo Mecánico
+### 🛠️Módulo Mecánico
 
 - El módulo es compacto y adaptable a marcos existentes.
 - Su cinemática garantiza un movimiento estable del engranaje y del sistema de apertura.
@@ -125,7 +125,7 @@ El sistema analiza continuamente el ambiente interior y responde mediante apertu
 - Incluye mecanismo de desbloqueo manual para emergencias.
 - Está construido para cumplir criterios de ergonomía: suave, silencioso y fácil de usar para cualquier persona.
 
-### 💻 Módulo de Software
+### 💻Módulo de Software
 
 - Controla sensores, alarmas, extractor y actuadores según el algoritmo.
 - Ofrece una aplicación móvil con alertas e historial de calidad del aire.
@@ -134,11 +134,11 @@ El sistema analiza continuamente el ambiente interior y responde mediante apertu
 - Gestiona los modos de operación del sistema.
 
 
-## 📋 Componentes Utilizados
+## 📋Componentes Utilizados
 
 A continuación se presenta un cuadro organizado para completar los componentes empleados en el proyecto, clasificados según su función dentro del sistema.
 
-### 🔌 Componentes Electrónicos
+### 🔌Componentes Electrónicos
 
 | Componente | Cantidad | Función | Exigencia Asociada |
 |-----------|----------|---------|---------------------|
@@ -153,7 +153,7 @@ A continuación se presenta un cuadro organizado para completar los componentes 
 
 ---
 
-### 🛠️ Componentes Mecánicos
+### 🛠️Componentes Mecánicos
 
 | Componente | Cantidad | Función | Exigencia Asociada |
 |-----------|----------|---------|---------------------|
@@ -164,7 +164,7 @@ A continuación se presenta un cuadro organizado para completar los componentes 
 
 ---
 
-### 💻 Componentes de Software
+### 💻Componentes de Software
 
 | Elemento | Función | Exigencia Asociada |
 |----------|---------|---------------------|
@@ -174,7 +174,7 @@ A continuación se presenta un cuadro organizado para completar los componentes 
 
 ---
 
-## ✨ Conclusiones y Trabajo Futuro
+## ✨Conclusiones y Trabajo Futuro
 
 SmartVent cumple todas las exigencias técnicas: control, seguridad, ergonomía, energía, señales, mecánica, software e instalación.
 
