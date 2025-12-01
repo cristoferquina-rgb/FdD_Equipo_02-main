@@ -21,6 +21,7 @@
     - [💻 Módulo de Software](#módulo-de-software)
 9. [📋 Componentes Utilizados](#componentes-utilizados)
 10. [✨ Conclusiones y Trabajo Futuro](#conclusiones-y-trabajo-futuro)
+
     
 ## 📘 Presentación del Equipo
 
