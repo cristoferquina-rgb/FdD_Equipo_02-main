@@ -41,7 +41,7 @@ Buscamos aportar a la construcción de ciudades más seguras, saludables y resil
 ## 📸 Fotografía del Equipo  
 <p align="center">
 
-<img width="1050" height="800" alt="image" src="https://github.com/user-attachments/assets/f30bdf4c-205f-44b1-9b0d-06e9b3b7deda" /> <br>
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/f30bdf4c-205f-44b1-9b0d-06e9b3b7deda" /> <br>
   <em>Figura 1. Fotografía del equipo 2</em>
 </p>
 
