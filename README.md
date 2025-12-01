@@ -24,7 +24,7 @@
 11. [🧪 Proceso de Diseño](#11-proceso-de-diseño)
 12. [📂 Estructura del Repositorio](#12-estructura-del-repositorio)
 13. [✨ Conclusiones y Trabajo Futuro](#13-conclusiones-y-trabajo-futuro)
-
+    
 ## 📘 Presentación del Equipo
 
 Somos el Equipo 02 del curso Fundamentos de Diseño 2025-2, conformado por estudiantes comprometidos con el desarrollo de soluciones innovadoras con impacto social, tecnológico y ambiental.
