@@ -58,13 +58,14 @@ Buscamos aportar a la construcción de ciudades más seguras, saludables y resil
 
 ## 📝 5. Problemática en el Perú
 
-En el Perú, la ventilación en viviendas, oficinas y colegios es ineficiente. Muchos espacios permanecen cerrados durante horas, lo que provoca acumulación de gases como GLP, CO₂, humedad y temperaturas elevadas. Esto afecta la salud, la seguridad y el confort de los habitantes.
+En el Perú, la ventilación en viviendas, oficinas y colegios es ineficiente. Muchos espacios permanecen cerrados durante horas, lo que provoca acumulación de gases, humedad y temperaturas elevadas. Esto afecta la salud, la seguridad y el confort de los habitantes.
 
 Además, los incendios urbanos representan un riesgo creciente. La inhalación de humo y gases tóxicos es una de las principales causas de muertes en siniestros domésticos. Muchas ventanas no cuentan con mecanismos de apertura rápida ni sistemas inteligentes que respondan automáticamente ante fugas de gas o humo.
 
 Esta realidad evidencia la necesidad de un sistema retrofit, compacto, adaptable y seguro, capaz de mejorar la ventilación, detectar peligros y actuar sin intervención humana.
 
-<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/be751f8b-8dd3-478c-b8e9-73a5fbc2b129" />
+<p align="center">
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/be751f8b-8dd3-478c-b8e9-73a5fbc2b129" />
 
 ## 6. Propuesta de Solución – SmartVent
 
