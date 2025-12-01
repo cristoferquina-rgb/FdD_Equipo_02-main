@@ -64,14 +64,14 @@ Además, los incendios urbanos representan un riesgo creciente. La inhalación d
 
 Esta realidad evidencia la necesidad de un sistema retrofit, compacto, adaptable y seguro, capaz de mejorar la ventilación, detectar peligros y actuar sin intervención humana.
 
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/be751f8b-8dd3-478c-b8e9-73a5fbc2b129" />
+
 ## 6. Propuesta de Solución – SmartVent
 
 SmartVent es un módulo retrofit inteligente que integra sensores ambientales, un mecanismo motorizado de apertura y un sistema de comunicación para emergencias.
 Permite ventilar de forma automática ante niveles peligrosos de gas o temperatura, y bloquea la entrada de aire cuando el exterior está contaminado.
 
 El sistema analiza continuamente el ambiente interior y responde mediante apertura parcial o total, activación de alarmas y envío de alertas remotas. Su diseño es compacto, adaptable a marcos existentes y pensado para funcionar sin interrumpir la vida cotidiana.
-
-<img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/5873048b-feb3-492f-a972-7676ab07f3e1" />
 
 
 ## 7. Funciones del Sistema
