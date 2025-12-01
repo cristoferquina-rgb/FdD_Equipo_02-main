@@ -20,10 +20,7 @@
     - [🛠️ Módulo Mecánico](#módulo-mecánico)
     - [💻 Módulo de Software](#módulo-de-software)
 9. [📋 Componentes Utilizados](#componentes-utilizados)
-10. [📁 Entregables del Proyecto](#entregables-del-proyecto)
-11. [🧪 Proceso de Diseño](#proceso-de-diseño)
-12. [📂 Estructura del Repositorio](#estructura-del-repositorio)
-13. [✨ Conclusiones y Trabajo Futuro](#conclusiones-y-trabajo-futuro)
+10. [✨ Conclusiones y Trabajo Futuro](#conclusiones-y-trabajo-futuro)
     
 ## 📘 Presentación del Equipo
 
