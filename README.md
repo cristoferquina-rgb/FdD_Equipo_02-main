@@ -55,60 +55,155 @@ Buscamos aportar a la construcción de ciudades más seguras, saludables y resil
 | <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/114daca6-934d-404e-8a1e-c031229eef30" /> | **Cristofer Andherson Quina Pumahuillca** | Encargado/a de documentación | Comunicación científica, redacción técnica |
 |<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/7b9d1414-1e5d-4bdc-a8f5-bdd2beb63d2c" />| **Sebastian Calderon Junes** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
----
 
-## 📌 Resumen Final  
-# ODS 11: Ciudades y comunidades sostenibles
-Este objetivo busca que las ciudades sean inclusivas, seguras, resilientes y sostenibles, ya que concentran gran parte de la población mundial. En 2022 se alcanzaron 8000 millones de habitantes, más de la mitad en zonas urbanas, y se estima que en 2050 llegue al 70 %. Actualmente, 1100 millones viven en barrios marginales y podrían sumarse 2000 millones más en 30 años, lo que genera déficit de vivienda, infraestructura y servicios, además de contaminación y falta de espacios públicos. Aunque aumentaron las estrategias contra desastres, solo la mitad de la población urbana accedió al transporte público en 2022, evidenciando la necesidad de transformar la planificación y gestión urbana.
+## 📝 5. Problemática en el Perú
 
-## Metas:
--Meta 11.5: “De aquí a 2030, reducir significativamente el número de muertes y personas afectadas por los desastres, incluidos los relacionados con el agua, y disminuir considerablemente las pérdidas económicas directas ocasionadas por ellos, haciendo especial hincapié en la protección de los pobres y las personas en situaciones de vulnerabilidad.”
--Meta 11.6: “De aquí a 2030, reducir el impacto ambiental negativo per cápita de las ciudades, prestando especial atención a la calidad del aire y a la gestión de l-los desechos municipales y de otro tipo.”
+En el Perú, la ventilación en viviendas, oficinas y colegios es ineficiente. Muchos espacios permanecen cerrados durante horas, lo que provoca acumulación de gases como GLP, CO₂, humedad y temperaturas elevadas. Esto afecta la salud, la seguridad y el confort de los habitantes.
+
+Además, los incendios urbanos representan un riesgo creciente. La inhalación de humo y gases tóxicos es una de las principales causas de muertes en siniestros domésticos. Muchas ventanas no cuentan con mecanismos de apertura rápida ni sistemas inteligentes que respondan automáticamente ante fugas de gas o humo.
+
+Esta realidad evidencia la necesidad de un sistema retrofit, compacto, adaptable y seguro, capaz de mejorar la ventilación, detectar peligros y actuar sin intervención humana.
+
+## 6. Propuesta de Solución – SmartVent
+
+SmartVent es un módulo retrofit inteligente que integra sensores ambientales, un mecanismo motorizado de apertura y un sistema de comunicación para emergencias.
+Permite ventilar de forma automática ante niveles peligrosos de gas o temperatura, y bloquea la entrada de aire cuando el exterior está contaminado.
+
+El sistema analiza continuamente el ambiente interior y responde mediante apertura parcial o total, activación de alarmas y envío de alertas remotas. Su diseño es compacto, adaptable a marcos existentes y pensado para funcionar sin interrumpir la vida cotidiana.
 
 <img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/5873048b-feb3-492f-a972-7676ab07f3e1" />
 
----
 
-## PROBLEMÁTICA EN EL PERÚ
+## 7. Funciones del Sistema
 
-En Lima se viven dos problemáticas que afectan directamente la salud y seguridad de las personas: la calidad del aire en interiores y la alta vulnerabilidad frente a incendios. Pasamos gran parte del día en espacios cerrados como colegios, oficinas o viviendas, donde el aire no siempre es saludable. La acumulación de dióxido de carbono (CO₂), humedad y otros compuestos deteriora la concentración y el bienestar. A esto se suma la contaminación exterior, en especial las partículas finas (PM2.5), que en Lima superan hasta tres veces los valores recomendados por la OMS (IQAir, 2024). Muchas veces abrir las ventanas para ventilar no resuelve el problema, ya que puede significar dejar entrar más contaminación, lo que genera un dilema cotidiano.
+🔹 Función principal
 
-Por otro lado, los incendios representan una amenaza constante en la capital. Según reportes del Cuerpo General de Bomberos y del CENEPRED, Lima concentra la mayor cantidad de siniestros urbanos en el país (INDECI, 2022). En estos casos, la mayoría de muertes no se deben a las llamas, sino a la inhalación de humo y gases tóxicos, que llenan rápidamente los ambientes, reducen la visibilidad y provocan asfixia en pocos minutos (NFPA, 2019).
+Integrar sensores de gases, temperatura y humedad en una ventana retrofit.
 
-Esta situación es todavía más crítica en distritos con alta densidad poblacional y bajos recursos económicos, donde muchas familias carecen de sistemas de ventilación adecuados o dispositivos de seguridad accesibles. Los grupos más vulnerables, adultos mayores, niños y personas con movilidad reducida, son quienes enfrentan mayores riesgos en este contexto.
+Detectar fugas, cambios bruscos de temperatura y niveles críticos que comprometan la salud.
 
-En conclusión, Lima enfrenta un doble desafío: mejorar la calidad del aire en interiores, considerando tanto el CO₂ como la exposición a contaminantes exteriores como el PM2.5, y al mismo tiempo fortalecer la seguridad frente a incendios. Esto evidencia la necesidad de soluciones tecnológicas accesibles, modulares y eficientes que combinen ventilación inteligente con protocolos de emergencia, adaptadas a la realidad urbana de la ciudad.
+Accionar automáticamente el mecanismo de apertura para ventilar.
 
+🔹 Funciones secundarias
+
+Enviar alertas locales y remotas (WhatsApp, mensajería).
+
+Reconocer la calidad del aire exterior y cerrarse automáticamente si está contaminado.
+
+Activar apertura total en situaciones de emergencia.
+
+🔹 Funciones de control
+
+Operar en tres modos: normal, apertura parcial y apertura total de emergencia.
+
+Procesar información en tiempo real con retroalimentación inmediata al usuario.
+
+🔹 Funciones mecánicas
+
+Lograr movimiento estable mediante engranaje móvil.
+
+Permitir aperturas graduales usando un sistema motorizado con transmisión.
+
+🔹 Funciones de seguridad
+
+Detectar humo, gases y partículas tóxicas.
+
+Mantener operatividad incluso sin electricidad gracias a batería de respaldo.
+
+Permitir apertura manual en caso necesario.
 
 <img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/be751f8b-8dd3-478c-b8e9-73a5fbc2b129" />
 
----
 
-# SmartVent – Respira tranquilo, vive protegido
+## 8. Módulos del Proyecto
+
+### 🔌 8.1 Módulo Electrónico
+
+Incluye sensores de gases, temperatura, humedad y partículas.
+
+Cuenta con señales de entrada como: encendido, inicio, parada y lecturas de sensores.
+
+Cuenta con señales de salida como: stand-by, estado, emergencia, fin de proceso y control de actuadores.
+
+Funciona conectado a la red eléctrica, pero tiene batería de respaldo y opción de energía solar.
+
+El hardware incluye mecanismos que abren la ventana al 100% ante niveles altos y 50% ante niveles moderados.
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/fe8d0138-987b-4a36-a371-daf679c65595" />
 
+### 🛠️ 8.2 Módulo Mecánico
+
+El módulo es compacto y adaptable a marcos existentes.
+
+Su cinemática garantiza un movimiento estable del engranaje y del sistema de apertura.
+
+El motor debe superar peso, fricción y presión del viento, con margen de seguridad.
+
+Usa materiales durables: anticorrosivos, vidrio, motores y sensores protegidos.
+
+La estructura está diseñada según normas de seguridad contra incendios y calidad del aire.
+
+Incluye mecanismo de desbloqueo manual para emergencias.
+
+Está construido para cumplir criterios de ergonomía: suave, silencioso y fácil de usar para cualquier persona.
+
+### 💻 8.3 Módulo de Software
+
+Ofrece una aplicación móvil con alertas, gráficos e historial de calidad del aire.
+
+Cuenta con dashboard en tiempo real.
+
+El firmware administra adquisición de datos y control del actuador.
+
+Permite notificaciones automáticas mediante IoT (SMS, email).
+
+Gestiona los tres modos de operación del sistema.
+
+Controla sensores, alarmas, extractor y actuadores según el algoritmo.
+
+## 📋 9. Componentes Utilizados
+
+A continuación se presenta un cuadro organizado para completar los componentes empleados en el proyecto, clasificados según su función dentro del sistema.
+
+### 🔌 Componentes Electrónicos
+
+| Componente | Cantidad | Función | Exigencia Asociada |
+|-----------|----------|---------|---------------------|
+| Sensor de gas (MQ-x) | | Detecta fugas de GLP y gases inflamables | Detectar fugas de gases dentro del ambiente |
+| Sensor de temperatura y humedad (DHT/HTU21D) | | Mide condiciones internas del ambiente | Propiedades físicas y químicas: temperatura y humedad |
+| Sensor de partículas (PM2.5 / polvo) | | Evalúa la calidad del aire exterior | Determinación de calidad del aire exterior |
+| Microcontrolador (ESP32 / Arduino) | | Procesamiento, control y comunicación | Centro del sistema: programa autónomo |
+| Motor DC 12V 300 RPM | | Acciona la apertura/cierre del sistema mecánico | Superar peso, fricción y presión del viento |
+| Driver de motor | | Control del motor mediante el microcontrolador | Control de salidas y actuadores |
+| Batería de respaldo | | Mantiene operativo el sistema sin energía | Funcionamiento continuo sin electricidad |
+| Fuente 12V / regulador | | Alimentación del sistema con protecciones | Alimentación segura y estable |
+| Alarma sonora (buzzer) | | Aviso local de emergencias | Señales de emergencia |
+| Indicador LED | | Estado del sistema y alertas visuales | Señales luminosas del proceso |
+
 ---
 
-## Propuesta de solución
+### 🛠️ Componentes Mecánicos
 
-## Ventana Inteligente Retrofit
-Es un módulo adaptable a cualquier ventana existente, que integra sensores, actuadores y un sistema de desbloqueo eléctrico. Permite mejorar la calidad del aire interior y actúa como medida de seguridad en emergencias como incendios y salidas en caso de emergencias.
+| Componente | Cantidad | Función | Exigencia Asociada |
+|-----------|----------|---------|---------------------|
+| Engranaje principal | | Transmitir movimiento al sistema de apertura | Cinemática estable del engranaje |
+| Barra móvil / brazo mecánico | | Efectuar el movimiento de apertura | Transmisión directa del motor |
+| Estructura de soporte | | Montaje seguro sobre la ventana | Instalación rápida y segura |
+| Soportes y anclajes | | Estabilidad del módulo | Robustez y resistencia |
+| Materiales anticorrosivos | | Durabilidad del sistema | Condiciones ambientales y humedad |
+| Mecanismo de desbloqueo manual | | Apertura manual en emergencia | Seguridad operativa |
 
-## ¿Cuál será su uso?
-En la vida diaria: abrir o cerrar la ventana automáticamente según la calidad del aire interior (CO₂) y la contaminación exterior (PM2.5).
-**En emergencias:** desbloquear y abrir la ventana para liberar humo y facilitar la evacuación, además de activar alarmas y notificaciones.
+---
 
-## Objetivo:
-Diseñar un sistema económico, modular y escalable que mejore la ventilación en colegios, oficinas y viviendas, y que incremente la seguridad de las personas en caso de incendios o emergencias.
+### 💻 Componentes de Software
 
-## Funciones que cumplirá:
--Medición ambiental: sensores de CO₂, partículas y humo.
--Ventilación automática: apertura/cierre según parámetros de calidad de aire.
--Respuesta a incendios: desbloqueo eléctrico + apertura total + alarma sonora y visual.
--Notificaciones: envío de alertas vía WiFi/Bluetooth a usuarios o responsables.
--Autonomía: alimentación por corriente y batería de respaldo, con opción solar.
+| Elemento | Función | Exigencia Asociada |
+|----------|---------|---------------------|
+| Firmware del microcontrolador | Control de sensores, motor y lógica | Gestión del proceso en tres modos |
+| Aplicación móvil / Dashboard | Alertas, datos en tiempo real e historial | Comunicación con el usuario |
+| Protocolo IoT (WiFi/Bluetooth) | Envío de notificaciones y monitoreo | Comunicación remota del sistema |
 
+---
 
 
 
