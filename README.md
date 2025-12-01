@@ -40,7 +40,7 @@ Buscamos aportar a la construcción de ciudades más seguras, saludables y resil
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-  <img![WhatsApp Image 2025-11-27 at 1 11 22 PM](https://github.com/user-attachments/assets/0bba7407-9e79-4baa-964a-82a359e197c3)><br>
+![WhatsApp Image 2025-11-27 at 1 11 22 PM](https://github.com/user-attachments/assets/0bba7407-9e79-4baa-964a-82a359e197c3) <br>
   <em>Figura 1. Fotografía del equipo 2</em>
 </p>
 
