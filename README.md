@@ -41,8 +41,7 @@ Buscamos aportar a la construcción de ciudades más seguras, saludables y resil
 ## 📸 Fotografía del Equipo  
 <p align="center">
 
-
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/f30bdf4c-205f-44b1-9b0d-06e9b3b7deda" /> <br>
+<img width="1050" height="800" alt="image" src="https://github.com/user-attachments/assets/f30bdf4c-205f-44b1-9b0d-06e9b3b7deda" /> <br>
   <em>Figura 1. Fotografía del equipo 2</em>
 </p>
 
@@ -51,10 +50,10 @@ Buscamos aportar a la construcción de ciudades más seguras, saludables y resil
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/b80a23aa-58e7-47dd-81fd-aa661d1a2c28" /> | **Idania Channara Parhuay Meza** | Líder del equipo | Innovación social, sostenibilidad |
-| <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/4dcac393-f906-4e7a-ae3c-b5c699ce6ed2" /> | **Eber Pauccara Huancara** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/114daca6-934d-404e-8a1e-c031229eef30" /> | **Cristofer Andherson Quina Pumahuillca** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-|<img width="1080" height="1052" alt="image" src="https://github.com/user-attachments/assets/7b9d1414-1e5d-4bdc-a8f5-bdd2beb63d2c" />| **Sebastian Calderon Junes** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/b80a23aa-58e7-47dd-81fd-aa661d1a2c28" /> | **Idania Channara Parhuay Meza** | Líder del equipo | Innovación social, sostenibilidad |
+| <img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/4dcac393-f906-4e7a-ae3c-b5c699ce6ed2" /> | **Eber Pauccara Huancara** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/114daca6-934d-404e-8a1e-c031229eef30" /> | **Cristofer Andherson Quina Pumahuillca** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+|<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/7b9d1414-1e5d-4bdc-a8f5-bdd2beb63d2c" />| **Sebastian Calderon Junes** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
