@@ -12,18 +12,18 @@
 2. [⭐ ODS Prioritario](#ods-prioritario)
 3. [📸 Fotografía del Equipo](#fotografía-del-equipo)
 4. [👥 Integrantes del Equipo](#integrantes-del-equipo)
-5. [📝 Problemática en el Perú](#5-problemática-en-el-perú)
-6. [💡 Propuesta de Solución – SmartVent](#6-propuesta-de-solución--smartvent)
-7. [⚙️ Funciones del Sistema](#7-funciones-del-sistema)
-8. [📦 Módulos del Proyecto](#8-módulos-del-proyecto)
-    - [🔌 Módulo Electrónico](#81-módulo-electrónico)
-    - [🛠️ Módulo Mecánico](#82-módulo-mecánico)
-    - [💻 Módulo de Software](#83-módulo-de-software)
-9. [📋 Componentes Utilizados](#9-componentes-utilizados)
-10. [📁 Entregables del Proyecto](#10-entregables-del-proyecto)
-11. [🧪 Proceso de Diseño](#11-proceso-de-diseño)
-12. [📂 Estructura del Repositorio](#12-estructura-del-repositorio)
-13. [✨ Conclusiones y Trabajo Futuro](#13-conclusiones-y-trabajo-futuro)
+5. [📝 Problemática en el Perú](#problemática-en-el-perú)
+6. [💡 Propuesta de Solución – SmartVent](#propuesta-de-solución--smartvent)
+7. [⚙️ Funciones del Sistema](#funciones-del-sistema)
+8. [📦 Módulos del Proyecto](#módulos-del-proyecto)
+    - [🔌 Módulo Electrónico](#módulo-electrónico)
+    - [🛠️ Módulo Mecánico](#módulo-mecánico)
+    - [💻 Módulo de Software](#módulo-de-software)
+9. [📋 Componentes Utilizados](#componentes-utilizados)
+10. [📁 Entregables del Proyecto](#entregables-del-proyecto)
+11. [🧪 Proceso de Diseño](#proceso-de-diseño)
+12. [📂 Estructura del Repositorio](#estructura-del-repositorio)
+13. [✨ Conclusiones y Trabajo Futuro](#conclusiones-y-trabajo-futuro)
     
 ## 📘 Presentación del Equipo
 
@@ -56,7 +56,7 @@ Buscamos aportar a la construcción de ciudades más seguras, saludables y resil
 |<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/7b9d1414-1e5d-4bdc-a8f5-bdd2beb63d2c" />| **Sebastian Calderon Junes** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 
-## 📝 5. Problemática en el Perú
+## 📝Problemática en el Perú
 
 En el Perú, la ventilación en viviendas, oficinas y colegios es ineficiente. Muchos espacios permanecen cerrados durante horas, lo que provoca acumulación de gases, humedad y temperaturas elevadas. Esto afecta la salud, la seguridad y el confort de los habitantes.
 
@@ -67,7 +67,7 @@ Esta realidad evidencia la necesidad de un sistema retrofit, compacto, adaptable
 <p align="center">
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/be751f8b-8dd3-478c-b8e9-73a5fbc2b129" />
 
-## 6. Propuesta de Solución – SmartVent
+## Propuesta de Solución – SmartVent
 
 SmartVent es un módulo retrofit inteligente que integra sensores ambientales, un mecanismo motorizado de apertura y un sistema de comunicación para emergencias.
 Permite ventilar de forma automática ante niveles peligrosos de gas o temperatura.
@@ -75,7 +75,7 @@ Permite ventilar de forma automática ante niveles peligrosos de gas o temperatu
 El sistema analiza continuamente el ambiente interior y responde mediante apertura, activación de alarmas y envío de alertas remotas. Su diseño es compacto, adaptable a marcos existentes y pensado para funcionar sin interrumpir la vida cotidiana.
 
 
-## 7. Funciones del Sistema
+## Funciones del Sistema
 
 🔹Función principal
 
@@ -106,9 +106,9 @@ El sistema analiza continuamente el ambiente interior y responde mediante apertu
 <img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/be751f8b-8dd3-478c-b8e9-73a5fbc2b129" />
 
 
-## 8. Módulos del Proyecto
+## Módulos del Proyecto
 
-### 🔌 8.1 Módulo Electrónico
+### 🔌Módulo Electrónico
 
 - Incluye sensores de gases, temperatura, humedad y partículas.
 - Cuenta con señales de entrada como: encendido, inicio, parada y lecturas de sensores.
@@ -118,7 +118,7 @@ El sistema analiza continuamente el ambiente interior y responde mediante apertu
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/fe8d0138-987b-4a36-a371-daf679c65595" />
 
-### 🛠️ 8.2 Módulo Mecánico
+### 🛠️ Módulo Mecánico
 
 - El módulo es compacto y adaptable a marcos existentes.
 - Su cinemática garantiza un movimiento estable del engranaje y del sistema de apertura.
@@ -127,7 +127,7 @@ El sistema analiza continuamente el ambiente interior y responde mediante apertu
 - Incluye mecanismo de desbloqueo manual para emergencias.
 - Está construido para cumplir criterios de ergonomía: suave, silencioso y fácil de usar para cualquier persona.
 
-### 💻 8.3 Módulo de Software
+### 💻 Módulo de Software
 
 - Controla sensores, alarmas, extractor y actuadores según el algoritmo.
 - Ofrece una aplicación móvil con alertas e historial de calidad del aire.
@@ -136,7 +136,7 @@ El sistema analiza continuamente el ambiente interior y responde mediante apertu
 - Gestiona los modos de operación del sistema.
 
 
-## 📋 9. Componentes Utilizados
+## 📋 Componentes Utilizados
 
 A continuación se presenta un cuadro organizado para completar los componentes empleados en el proyecto, clasificados según su función dentro del sistema.
 
@@ -176,7 +176,7 @@ A continuación se presenta un cuadro organizado para completar los componentes 
 
 ---
 
-## ✨ 13. Conclusiones y Trabajo Futuro
+## ✨ Conclusiones y Trabajo Futuro
 
 SmartVent cumple todas las exigencias técnicas: control, seguridad, ergonomía, energía, señales, mecánica, software e instalación.
 
